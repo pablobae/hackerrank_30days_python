@@ -8,6 +8,7 @@ Solutions in Python for each of the #30DaysofCode challenges from [HackerRank](h
 
 | Day | Challenge |
 | --- | --- |
+| Day 15 | Linked List |
 | Day 14 | Scope | 
 | Day 13 | Abstract Classes |
 | Day 12 | Inheritance |
