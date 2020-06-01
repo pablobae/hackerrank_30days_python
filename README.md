@@ -8,6 +8,8 @@ Solutions in Python for each of the #30DaysofCode challenges from [HackerRank](h
 
 | Day | Challenge |
 | --- | --- |
+| Day 18 | Queues and Stacks |
+| Day 17 | Exceptions - Like a boss |
 | Day 16 | Exceptions - String to Integer |
 | Day 15 | Linked List |
 | Day 14 | Scope | 
