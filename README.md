@@ -8,6 +8,7 @@ Solutions in Python for each of the #30DaysofCode challenges from [HackerRank](h
 
 | Day | Challenge |
 | --- | --- |
+| Day 21 | Generics |
 | Day 20 | Sorting |
 | Day 19 | Interfaces |
 | Day 18 | Queues and Stacks |
