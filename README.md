@@ -8,6 +8,7 @@ Solutions in Python for each of the #30DaysofCode challenges from [HackerRank](h
 
 | Day | Challenge |
 | --- | --- |
+| Day 23 | BST Level-Order Traversal |
 | Day 22 | Binary Search |
 | Day 21 | Generics |
 | Day 20 | Sorting |
