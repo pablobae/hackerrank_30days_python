@@ -8,6 +8,7 @@ Solutions in Python for each of the #30DaysofCode challenges from [HackerRank](h
 
 | Day | Challenge |
 | --- | --- |
+| Day 27 | Testing |
 | Day 26 | Nested Logic |
 | Day 25 | Running Time and Complexity |
 | Day 24 | More Linked Lists |
