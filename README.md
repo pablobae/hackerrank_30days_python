@@ -8,6 +8,7 @@ Solutions in Python for each of the #30DaysofCode challenges from [HackerRank](h
 
 | Day | Challenge |
 | --- | --- |
+| Day 29 | Bitwise AND |
 | Day 28 | RegEx, Patterns, and Intro to Databases |
 | Day 27 | Testing |
 | Day 26 | Nested Logic |
